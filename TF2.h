@@ -1,0 +1,11 @@
+  uintptr_t LocalPlayer = 0xc40720;
+	uintptr_t EntityList = 0xc4e2ec;
+	uintptr_t GlowObjectManager = 0xbd8bd4;
+	uintptr_t ClientState = 0x464a58;
+	uintptr_t GlobalVars = 0x3acb78;
+	uintptr_t Direct3DDevice9 = 0xe95f8;
+	uintptr_t ViewAngles = 0x4695dc;
+	uintptr_t MaxClients = 0x464d0c;
+	uintptr_t IsInGame = 0x464b88;
+	uintptr_t IsConnected = 0x59994a;
+	uintptr_t Dormant = 0x1aa;
